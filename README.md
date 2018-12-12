@@ -18,11 +18,22 @@ A super condensed JavaScript reference for [Watch and Code](https://watchandcode
 ### Before you start
 
 1. Read the docs (if they exist).
+  You have to spend at least couple of hours going through the library docs. Read them to get an idea whats going on.
+  
 2. Run the code.
+  Most of the times you will include the code into your editor, but in the recent librarys they include the library to their docs so user can experiment in the console while the docs pages is open.
+  
 3. Play with the code to see how it behaves.
+  Run the all the docs examples and see how it behaves in different scenarios.
+  
 4. Think about how the code might be implemented.
+  Think outside of box and try to think how you can accomplish it.
+  
 5. Get the code into an editor so that you can modify it.
+  Download the library and open it in your editor.
+  
 6. Look at the file structure.
+  Get familiar with the library structure and write down what are the most interesting files from the structure so you can read them later in the process.
 
 ### The process
 
